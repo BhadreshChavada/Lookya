@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".DemoActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="20sp"
+        android:paddingLeft="10sp"
+        android:paddingRight="10sp"
+        android:paddingTop="20sp"
+        android:text="About us" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="20sp"
+        android:paddingLeft="10sp"
+        android:paddingRight="10sp"
+        android:text="Text Content" />
+
+    <TextView
+        android:id="@+id/contacus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="menuSelect"
+        android:paddingBottom="20sp"
+        android:paddingLeft="10sp"
+        android:paddingRight="10sp"
+        android:text="Contact us" />
+
+    <TextView
+        android:id="@+id/feedback"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="menuSelect"
+        android:paddingBottom="20sp"
+        android:paddingLeft="10sp"
+        android:paddingRight="10sp"
+        android:text="Feedback" />
+
+    <TextView
+        android:id="@+id/share_app"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="menuSelect"
+        android:paddingBottom="20sp"
+        android:paddingLeft="10sp"
+        android:paddingRight="10sp"
+        android:text="Share app" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="20sp"
+        android:paddingLeft="10sp"
+        android:paddingRight="10sp"
+        android:text="Share on Social media" />
+
+
+</LinearLayout>

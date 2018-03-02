@@ -18,9 +18,13 @@
             </intent-filter>
         </activity>
 
+        <activity
+            android:name=".DemoActivity" />
+
         <meta-data
             android:name="com.zappar.embed.API_KEY"
-            android:value="iCmYw7ZRpAeJDDwrRQR7RQHDDys=" />
+            android:value="iCmYw7ZRpAeJDDwrRQR7RQHDDys="
+           />
 
     </application>
 

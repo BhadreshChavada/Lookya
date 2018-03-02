@@ -22,7 +22,10 @@ public class MainActivity extends AppCompatActivity {
                 boolean isCompatible = ZapparEmbed.isCompatible(getApplicationContext());
 
                 if (isCompatible) {
-                    Intent i = new Intent(MainActivity.this, ZapparEmbed.getZapcodeClassForIntent());
+//                    Intent i = new Intent(MainActivity.this, ZapparEmbed.getZapcodeClassForIntent());
+//                    startActivity(i);
+//                    finish();
+                    Intent i = new Intent(MainActivity.this, DemoActivity.class);
                     startActivity(i);
                     finish();
                 } else {
