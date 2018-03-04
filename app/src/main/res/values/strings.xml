@@ -4,6 +4,7 @@
     <string name="how_to_use">How to use</string>
     <string name="shareapp">Share App</string>
     <string name="open_scanner">OPEN SCANNER</string>
-    <string name="txt_poweredby">Powered by NetGeekz Media</string>
+    <string name="txt_poweredby">Powered by </string>
     <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</string>
+    <string name="txt_netgeekz_Media"> &#160;NetGeekz Media</string>
 </resources>
