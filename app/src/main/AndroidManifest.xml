@@ -19,12 +19,15 @@
         </activity>
 
         <activity
-            android:name=".DemoActivity" />
+            android:name=".MenuActivity"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+        <activity
+            android:name=".HowtoUseActivity"
+            android:label="@string/how_to_use" />
 
         <meta-data
             android:name="com.zappar.embed.API_KEY"
-            android:value="iCmYw7ZRpAeJDDwrRQR7RQHDDys="
-           />
+            android:value="iCmYw7ZRpAeJDDwrRQR7RQHDDys=" />
 
     </application>
 

@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
 //                    Intent i = new Intent(MainActivity.this, ZapparEmbed.getZapcodeClassForIntent());
 //                    startActivity(i);
 //                    finish();
-                    Intent i = new Intent(MainActivity.this, DemoActivity.class);
+                    Intent i = new Intent(MainActivity.this, MenuActivity.class);
                     startActivity(i);
                     finish();
                 } else {

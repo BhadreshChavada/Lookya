@@ -3,4 +3,10 @@
     <color name="colorPrimary">#CC0303</color>
     <color name="colorPrimaryDark">#CC0303</color>
     <color name="colorAccent">#CC0303</color>
+    <color name="background">#C10100</color>
+    <color name="view_line">#88ffffff</color>
+    <color name="box_bg">#CD1818</color>
+    <color name="black">#000000</color>
+    <color name="text_color">#F7FFFF</color>
+    <color name="White">#ffffff</color>
 </resources>

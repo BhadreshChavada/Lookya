@@ -8,4 +8,12 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="comici">
+        <item name="android:fontFamily">@font/comici</item>
+    </style>
+
+    <style name="comicz">
+        <item name="android:fontFamily">@font/comicz</item>
+    </style>
+
 </resources>
