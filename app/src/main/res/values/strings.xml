@@ -7,4 +7,11 @@
     <string name="txt_poweredby">Powered by </string>
     <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</string>
     <string name="txt_netgeekz_Media"> &#160;NetGeekz Media</string>
+    <string name="welcome_to">Welcome To</string>
+    <string name="prepare_to">Prepare To</string>
+    <string name="discover_your_best_result">\"Discover Your Best Result\"</string>
+    <string name="swipe_left_to_continue">Swipe Left To Continue</string>
+    <string name="guide_screen_screen_two_message">Using \"Look ya\" App is Simple!</string>
+    <string name="guide_screen_screen_two_message_two"><![CDATA[Just Aim at a Zap Code & Unlock It\'s Hidden Content!]]></string>
+    <string name="start_zapping">START ZAPPING</string>
 </resources>
